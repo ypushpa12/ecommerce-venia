@@ -68,9 +68,9 @@ const Product = (props) => {
                     <div class="sw1">
                         <img src={Swatch1} className="cl-1" />
 
-                        <img src={Swatch2} />
-                        <img src={Swatch3} />
-                        <img src={Swatch4} /><br />
+                        <img src={Swatch2} className="cl-2" />
+                        <img src={Swatch3} className="cl-3" />
+                        <img src={Swatch4} className="cl-4" /><br />
                     </div>
                     <div className='size'>
                         <h5>Size</h5>

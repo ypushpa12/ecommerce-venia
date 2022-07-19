@@ -74,6 +74,25 @@ body.active-modal {
   overflow-y: hidden;
 }
 
+.cl-1 {
+  background-color: #1F39FF;
+}
+
+.cl-2 {
+  margin-left: 1rem;
+  background-color: #ee0f99;
+}
+
+.cl-3 {
+  margin-left: 1rem;
+  background-color: black;
+}
+
+.cl-4 {
+  margin-left: 1rem;
+  background-color: #b8b0b0;
+}
+
 .btn-modal {
   padding: 10px 20px;
   display: block;
@@ -367,8 +386,8 @@ body.active-modal {
   .filt {
     display: none;
   }
-  .card-img {
-    width: 26rem;
+  .card-img-top {
+    width: 28rem;
   }
   .row {
     width: 28rem;
